@@ -40,5 +40,5 @@ My motivation is to be useful to others and fulfill my obligations to complete e
  
  
 [twitter]: https://twitter.com/rismaadisty_
-[linkedin]: https://www.linkedin.com/in/rismaadisty
+[linkedin]: https://www.linkedin.com/in/risma-adisty-nilasari-0740bb237
 [Instagram]: https://www.instagram.com/rismaadisty
