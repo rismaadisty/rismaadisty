@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
 
-I live in Surakarta, Indonesian
+I live in Jakarta, Indonesian
 
 ## Languages and My Tech Toolbox 🧰 
 
@@ -25,10 +25,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Current activity 👨‍💻
 
-- 📖 I’m currently learning Android;
-- 🤔 My interests are with Android Developer;
+- 📖 Currently I work as an Android Developer;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rismareboot@gmail.com to reach me.
+- 📫 Please email via rismaadistyn@gmail.com to reach me.
 
 
 ## 📊 Github Stats
