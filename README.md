@@ -8,7 +8,7 @@ I live in Surakarta, Indonesian
 ## Languages and My Tech Toolbox 🧰 
 
 <p align="left">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" alt="android" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
