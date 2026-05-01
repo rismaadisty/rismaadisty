@@ -3,20 +3,16 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
 
-I live in Jakarta, Indonesian
-
 ## Languages and My Tech Toolbox 🧰 
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-</p>
+<div style="display: flex; overflow-x: auto;">
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</div>
 
 
 ## How I work
@@ -25,9 +21,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Current activity 👨‍💻
 
-- 📖 Currently I work as an Android Developer;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rismaadistyn@gmail.com to reach me.
+- 📖 Currently I work as an Android Application Engineer
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email via rismaadistyn@gmail.com to reach me
 
 
 ## 📊 Github Stats
