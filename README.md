@@ -1,39 +1,48 @@
-# Hi, I'm Risma Adisty Nilasari <img src="https://github.com/rismaadisty/rismaadisty/blob/master/gif/Hi.gif?raw=true" width="30px">
-[<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF94B8&center=true&vCenter=true&width=650&lines=Android+Application+Engineer;Kotlin+%26+Jetpack+Compose;Coffee+%26+Code+%E2%98%95%EF%B8%8F" />
+</p>
 
-## Languages and My Tech Toolbox 🧰 
+<h3 align="center">Hi, I'm Risma Adisty 👩‍💻🎀</h3>
 
-<div style="display: flex; overflow-x: auto;">
-  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</div>
+<p align="center">
+  <i>Crafting smooth mobile apps with a touch of coffee & sweetness.</i>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rismaadisty/rismaadisty/output/github-snake.svg" alt="GitHub Snake" />
+</p>
 
-## How I work
+---
 
-My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
+### 🌷 A Little Bit About Me
 
-## Current activity 👨‍💻
+Hello! I'm an **Android Application Engineer** based in 🇮🇩. I believe in writing clean code, being useful to the people around me, and making sure every single task gets its well-deserved checkmark ✅. I love exploring new technologies 🆕 and keeping an open, positive mindset as I grow! 🎀
 
-- 📖 Currently I work as an Android Application Engineer
-- 💬 Ask me about anything, I am happy to help
-- 📫 Please email via rismaadistyn@gmail.com to reach me
+- 💻 **Daily dose of code:** Building intuitive Android apps with Kotlin & Jetpack Compose.
+- ✨ **Core values:** Responsibility, continuous growth, and easy-going collaboration.
+- 🗨️ **Say hi:** Got questions about Android or mobile apps? My inbox is always open!
 
+---
 
-## 📊 Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rismaadisty&show_icons=true&theme=graywhite" alt="Risma Adisty Nilasari | Stats" />
+### 🍓 Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rismaadisty&show_icons=true&theme=synthwave&hide_border=true&title_color=FF94B8&icon_color=8FBC8F" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rismaadisty&theme=synthwave&hide_border=true&fire=FF94B8&ring=8FBC8F" width="48%" alt="GitHub Streak" />
+</p>
 
-## Visitor
- ![Visitor Count](https://profile-counter.glitch.me/{rismaadisty}/count.svg)
- 
- 
-[twitter]: https://twitter.com/rismaadisty_
-[linkedin]: https://www.linkedin.com/in/risma-adisty-nilasari-0740bb237
-[Instagram]: https://www.instagram.com/rismaadisty_
+---
+
+### 🌱 Let's Connect
+
+<p align="center">
+  📧 <a href="mailto:rismaadistyn@gmail.com">Email</a> &nbsp;&bull;&nbsp; 
+  💼 <a href="https://www.linkedin.com/in/risma-adisty-nilasari-0740bb237">LinkedIn</a> &nbsp;&bull;&nbsp; 
+  🐦 <a href="https://twitter.com/rismaadisty_">Twitter</a> &nbsp;&bull;&nbsp; 
+  📸 <a href="https://www.instagram.com/rismaadisty_">Instagram</a>
+</p>
+
+<p align="center">
+  <br>
+  <sub><i>✨ Progress over perfection.</i></sub>
+</p>
