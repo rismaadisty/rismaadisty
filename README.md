@@ -31,7 +31,6 @@ Hello! I'm an **Android Application Engineer** based in 🇮🇩. I believe in w
 ### 🍓 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rismaadisty&show_icons=true&theme=synthwave&hide_border=true&title_color=FF94B8&icon_color=8FBC8F" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rismaadisty&theme=synthwave&hide_border=true&fire=FF94B8&ring=8FBC8F" width="48%" alt="GitHub Streak" />
 </p>
 
