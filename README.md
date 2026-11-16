@@ -39,13 +39,21 @@ Hello! I'm an **Android Application Engineer** based in 🇮🇩. I believe in w
 ### 🌱 Let's Connect
 
 <p align="center">
-  📧 <a href="mailto:rismaadistyn@gmail.com">Email</a> &nbsp;&bull;&nbsp; 
-  💼 <a href="https://www.linkedin.com/in/risma-adisty-nilasari-0740bb237">LinkedIn</a> &nbsp;&bull;&nbsp; 
-  🐦 <a href="https://twitter.com/rismaadisty_">Twitter</a> &nbsp;&bull;&nbsp; 
-  📸 <a href="https://www.instagram.com/rismaadisty_">Instagram</a>
+  <a href="mailto:rismaadistyn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F1D4D9?style=flat-square&logo=gmail&logoColor=514254" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/risma-adisty-nilasari-0740bb237">
+    <img src="https://img.shields.io/badge/LinkedIn-F1D4D9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzUxNDI1NCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhTMDUuNSA1IDYuNSA1czEuOC44IDEuOCAxLjgtLjggMS44LTEuOCAxLjh6bTEyLjUgMTAuM2gtM3YtNC43YzAtMS4xLS40LTEuOS0xLjUtMS45LS44IDAtMS4zLjUtMS41IDEuMS0uMS4yLS4xLjUtLjEuOHY0LjdoLTN2LTloMi45djEuMmMuNC0uNiAxLjEtMS41IDIuNy0xLjUgMiAwIDMuNSAxLjMgMy41IDQuMXY1LjJ6Ii8+PC9zdmc+" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rismaadisty_">
+    <img src="https://img.shields.io/badge/Twitter-F1D4D9?style=flat-square&logo=x&logoColor=514254" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/rismaadisty_">
+    <img src="https://img.shields.io/badge/Instagram-F1D4D9?style=flat-square&logo=instagram&logoColor=514254" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
   <br>
-  <sub><i>✨ Progress over perfection.</i></sub>
+  <i>🌷 Romanticizing my life while fixing gradle errors</i>
 </p>
